@@ -1,2 +1,2 @@
 # Group2project
-Dynamic website
+Website project
